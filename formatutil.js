@@ -61,3 +61,14 @@ var Formatutil = (function() {
 
 })();
 
+
+/*
+
+usage:
+
+Formatutil.format(1234, "number");
+
+returns: "1,234"
+
+*/
+
